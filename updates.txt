@@ -1,0 +1,8 @@
+
+Download the RPi CM4 symbols and footprints from 
+
+https://datasheets.raspberrypi.org/license.html
+
+wget https://datasheets.raspberrypi.org/cm4/CM4-step.zip
+wget https://datasheets.raspberrypi.org/cm4io/CM4IO-KiCAD.zip
+
